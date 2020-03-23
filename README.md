@@ -9,3 +9,7 @@ We start with a very simple data source is used which contains only two lines: "
 The concept of word counting can be simply explained using the following illustration:
 
 ![](https://github.com/wcj365/word-count/blob/master/ToBeOrNotToBe.GIF)
+
+This illustration also helps when we deal with big data analytics using the concept of Map and Reduce. This illustration is from the following Spark Workshop:
+
+https://stanford.edu/~rezab/sparkworkshop/slides/holden.pdf
