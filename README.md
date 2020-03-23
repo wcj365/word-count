@@ -13,3 +13,5 @@ The concept of word counting can be simply explained using the following illustr
 This illustration also helps when we deal with big data analytics using the concept of Map and Reduce. This illustration is from the following Spark Workshop:
 
 https://stanford.edu/~rezab/sparkworkshop/slides/holden.pdf
+
+The second data source is a bit larger. We use a well-known essay "Against Interpretation" by Susan Sontag. We also produce a wordcloud from the essay.
